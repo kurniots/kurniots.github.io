@@ -4,27 +4,27 @@
 <?xml-stylesheet type="text/xsl" href="https://kurniots.github.io/sitemap-hugo/default.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc><![CDATA[https://kurniots.github.io/addl-sitemap.xml]]></loc>
+		<loc><![CDATA[https://kurniots.github.io/sitemap-hugo/addl-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2021-01-04T16:13:58+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://kurniots.github.io/post-sitemap.xml]]></loc>
+		<loc><![CDATA[https://kurniots.github.io/sitemap-hugo/post-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2021-01-04T16:13:58+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://kurniots.github.io/post1-sitemap.xml]]></loc>
+		<loc><![CDATA[https://kurniots.github.io/sitemap-hugo/post1-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2021-01-04T16:07:15+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://kurniots.github.io/post2-sitemap.xml]]></loc>
+		<loc><![CDATA[https://kurniots.github.io/sitemap-hugo/post2-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2021-01-04T16:13:58+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://kurniots.github.io/post3-sitemap.xml]]></loc>
+		<loc><![CDATA[https://kurniots.github.io/sitemap-hugo/post3-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2021-01-04T16:13:58+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://kurniots.github.io/post4-sitemap.xml]]></loc>
+		<loc><![CDATA[https://kurniots.github.io/sitemap-hugo/post4-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2021-01-04T16:13:58+00:00]]></lastmod>
-	</sitemap>		<sitemap>		<loc><![CDATA[https://kurniots.github.io/post5-sitemap.xml]]></loc>		<lastmod><![CDATA[2021-01-05T01:31:18+00:00]]></lastmod>	</sitemap>
+	</sitemap>		<sitemap>		<loc><![CDATA[https://kurniots.github.io/sitemap-hugo/post5-sitemap.xml]]></loc>		<lastmod><![CDATA[2021-01-05T01:31:18+00:00]]></lastmod>	</sitemap>
 </sitemapindex>
